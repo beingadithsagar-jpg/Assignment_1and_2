@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Agent",
+  "description": "An intelligent academic research assistant using few-shot prompting to analyze research topics, synthesize literature themes, identify research gaps, and generate structured research reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
